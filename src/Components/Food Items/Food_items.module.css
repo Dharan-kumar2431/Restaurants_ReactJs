@@ -1,0 +1,6 @@
+.viewCartBox{
+    position: fixed;
+    bottom: 0;
+    margin-inline-start: 15rem;
+    width: 40%;
+}

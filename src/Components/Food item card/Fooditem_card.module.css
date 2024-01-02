@@ -1,0 +1,22 @@
+.itemsimg{
+    width: 10rem;
+    height: 7rem;
+    margin-top: 1rem;
+    border-radius: 1rem;
+}
+
+.countentybox{
+    position: absolute;
+    border:1px solid white;
+    background-color:white;
+    width:7rem;
+    padding-block:3px;
+    border-radius: 5px;
+    left: 25px;
+    top: 115px;   
+}
+
+.countbutton{
+    min-width: 0 !important;
+    padding: 0 !important;
+}

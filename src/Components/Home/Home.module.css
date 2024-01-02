@@ -1,0 +1,19 @@
+/* .cardsbox{
+    margin-inline-start: 5rem;
+}
+
+.oddcards{
+    height: 25rem;
+}
+
+.evencards{
+    margin-block-start: 5rem;
+} */
+
+.tablecards{
+    margin-inline-start: 1rem;
+}
+
+.cardslink{
+    text-decoration: none;
+}

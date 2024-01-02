@@ -1,0 +1,15 @@
+.viewcartcard{
+    padding: 12px !important;
+}
+
+.verticaldivider{
+    border-right: 2px dashed orange;
+    margin: 4px !important;
+    height: 2px 10px;
+    margin-top: 9px !important;
+}
+
+.viewcartcontent{
+    border-block: 1px dashed lightgray;
+    padding: 8px 5px;
+}
